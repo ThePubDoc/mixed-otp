@@ -7,6 +7,6 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Aayush Agrawal",
-	"license": "ISC",
+	"license": "MIT",
 	"homepage": "https://github.com/thepubdoc/mixed-otp"
 }
