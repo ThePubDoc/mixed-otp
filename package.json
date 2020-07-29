@@ -1,6 +1,6 @@
 {
 	"name": "mixed-otp",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Library to create OTP with numbers and alphabets",
 	"main": "index.js",
 	"scripts": {

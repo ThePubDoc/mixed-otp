@@ -1,3 +1,4 @@
+'use strict';
 const otp = (digits) => {
 	let otp = '';
 	for (let i = 1; i <= digits; i++) {
